@@ -1,4 +1,13 @@
-- tipologia: "Dichiarazione"
+- tipologia: "Delibera"
+  ufficio: "UfficioPublico"
+  oggetto: "Delibera per la formazione del nuovo sito web ufficiale di Arena Giovani"
+  pubblicazione: "23/02/2025"
+  numero: 1
+  allegati:
+    - nome: "delibera"
+      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/delibera/1/index.html"
+ 
+ - tipologia: "Dichiarazione"
   ufficio: "URP"
   oggetto: "obiettivi mandato Arena Giovani Gabriel Jones"
   pubblicazione: "23/02/2025"
@@ -16,3 +25,4 @@
   allegati:
     - nome: "DETERMINA[1.0].pdf"
       link: "https://backoffice2-comuni.regione.fvg.it/insiel/get_file_albo/093032/9184638/main/"
+ 
