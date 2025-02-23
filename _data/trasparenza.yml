@@ -2,7 +2,7 @@
   ufficio: "UfficioPublico"
   oggetto: "Delibera per la formazione del nuovo sito web ufficiale di Arena Giovani"
   pubblicazione: "23/02/2025"
-  numero: 1
+  numero: 2
   allegati:
     - nome: "delibera"
       link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/delibera/1/index.html"
@@ -17,12 +17,3 @@
       link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/dichiarazioni/1/index.html"
     - nome: "Risorsa 2"
       link: "https://arenagiovani.it/"
-- tipologia: "Determinazioni di impegno"
-  ufficio: "Servizi territoriali e SUAP"
-  oggetto: "Commissione Comunale per il Paesaggio. Impegno delle somme per liquidazione indennità di presenza commissari - anno 2025"
-  pubblicazione: "dal 21/02/25 al 08/03/25"
-  numero: 69
-  allegati:
-    - nome: "DETERMINA[1.0].pdf"
-      link: "https://backoffice2-comuni.regione.fvg.it/insiel/get_file_albo/093032/9184638/main/"
- 
