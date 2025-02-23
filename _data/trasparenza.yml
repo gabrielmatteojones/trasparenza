@@ -1,4 +1,13 @@
-- tipologia: "Delibera"
+- tipologia: "Bandi"
+  ufficio: "DipartimentoDirettivo"
+  oggetto: "Tutti i bandi di Arena Giovani"
+  pubblicazione: "23/02/2025"
+  numero: 2
+  allegati:
+    - nome: "Bandi"
+      link: "/cdn/documenti/2025/bandi/Bandi Aperti.pdf"
+ 
+ - tipologia: "Delibera"
   ufficio: "UfficioSoci"
   oggetto: "Delibera per la formazione del nuovo sito web ufficiale di Arena Giovani"
   pubblicazione: "23/02/2025"
@@ -6,7 +15,7 @@
   allegati:
     - nome: "delibera"
       link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/delibera/1/index.html"
-
+ 
 - tipologia: "Dichiarazione"
   ufficio: "UfficioPublico"
   oggetto: "Obiettivi mandato Arena Giovani Gabriel Jones"
