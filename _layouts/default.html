@@ -1,11 +1,8 @@
 <!doctype html>
 <html lang="{{ page.lang }}">
 <head>
-  {% include meta.html %}
-  {% include styles.html %}
-  {%- if jekyll.environment == 'production' -%}
-  {%- include analytics/google-analytics.html -%}
-  {%- endif -%}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/bootstrap-italia/dist/css/fvg.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/bootstrap-italia/dist/css/bootstrap-italia.min.css">
 </head>
 <body>
   {%- include header/header.html -%}
