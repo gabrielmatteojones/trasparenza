@@ -1,5 +1,13 @@
 - tipologia: "Bando"
   ufficio: "UfficioSoci"
+  oggetto: "Apertura candidature per il bando"
+  pubblicazione: "26/02/2025"
+  numero: 4
+  allegati:
+    - nome: "Bando"
+      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/bandi/3/BandoSocioPariOpportunità.pdf"
+- tipologia: "Bando"
+  ufficio: "UfficioSoci"
   oggetto: "Apertura candidature per il nuovo progetto giovanile"
   pubblicazione: "23/02/2025"
   numero: 3
