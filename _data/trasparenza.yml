@@ -1,3 +1,11 @@
+- tipologia: "Delibera"
+  ufficio: "Gabriel Jones"
+  oggetto: "Nuovi portali"
+  pubblicazione: "26/02/2025"
+  numero: 5
+  allegati:
+    - nome: "Delibera"
+      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/delibera/2/NuoviPortali.docx.pdf"      
 - tipologia: "Bando"
   ufficio: "UfficioSoci"
   oggetto: "Apertura candidature per il bando"
