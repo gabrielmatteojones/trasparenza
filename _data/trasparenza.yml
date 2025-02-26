@@ -1,5 +1,13 @@
 - tipologia: "Delibera"
   ufficio: "Gabriel Jones"
+  oggetto: "Comunicazione sulla chisura del bando Numero 7782"
+  pubblicazione: "26/02/2025"
+  numero: 5
+  allegati:
+    - nome: "Delibera"
+      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/bandi/4/Comunicazione-sulla-chiusura-del-bando-n-7782.pdf"      
+- tipologia: "Delibera"
+  ufficio: "Gabriel Jones"
   oggetto: "Nuovi portali"
   pubblicazione: "26/02/2025"
   numero: 5
