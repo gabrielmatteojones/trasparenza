@@ -1,5 +1,23 @@
 ---
 layout: null
-permalink: /trasparenza.json
 ---
-{{ site.data.trasparenza | jsonify }}
+{% assign atti = site.data.trasparenza %}
+[
+{% for atto in atti %}
+{
+  "tipologia": "{{ atto.tipologia }}",
+  "ufficio": "{{ atto.ufficio }}",
+  "oggetto": "{{ atto.oggetto }}",
+  "pubblicazione": "{{ atto.pubblicazione }}",
+  "numero": {{ atto.numero }},
+  "allegati": [
+    {% for allegato in atto.allegati %}
+    {
+      "nome": "{{ allegato.nome }}",
+      "link": "{{ allegato.link }}"
+    }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]
