@@ -1,8 +1,16 @@
+- tipologia: "Delibera"
+  ufficio: "UfficioPublico"
+  oggetto: "Conclusione progetti 2024-2025"
+  pubblicazione: "01/03/2025"
+  numero: 8
+  allegati:
+    - nome: "Accesso alla delibera"
+      link: "/cdn/documenti/2025/delibera/3/index.pdf"   
 - tipologia: "Comunicato PS"
   ufficio: "Arena Giovani"
   oggetto: "Dichiarazione email in evidenza sul progetto Arena Giovani"
   pubblicazione: "01/03/2025"
-  numero: 8
+  numero: 7
   allegati:
     - nome: "Comunicato"
       link: "/cdn/documenti/2025/dichiarazioni/2/emailinevidenza.pdf"   
