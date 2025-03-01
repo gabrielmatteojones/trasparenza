@@ -4,7 +4,29 @@ layout: default
 <div class="container">
 
     <h2>Trasparenza Gabriel Jones</h2>
+<input type="text" id="search" placeholder="Cerca un atto..." onkeyup="searchAtti()">
+<ul id="results"></ul>
 
+
+<script>
+    async function searchAtti() {
+    let query = document.getElementById("search").value.toLowerCase();
+    let resultsList = document.getElementById("results");
+    resultsList.innerHTML = "";
+
+    let response = await fetch("/trasparenza.json");
+    let atti = await response.json();
+
+    let results = atti.filter(atto => atto.titolo.toLowerCase().includes(query));
+
+    results.forEach(atto => {
+        let li = document.createElement("li");
+        li.innerHTML = `<a href="${atto.url}">${atto.titolo} (${atto.data})</a>`;
+        resultsList.appendChild(li);
+    });
+}
+
+</script>
 {% for atto in site.data.trasparenza %}
 <div class="col-12 amministrazione amministrazione-primary">
     <div class="row">
