@@ -1,3 +1,11 @@
+- tipologia: "Esercizio"
+  ufficio: "Gabriel Jones"
+  oggetto: "Esercizio Biblioteconomia 2025 per l'utenza"
+  pubblicazione: "02/03/2025"
+  numero: 9
+  allegati:
+    - nome: "Esercizio Biblioteconomia
+      link: "/cdn/esercizi/biblioteconomia2025/Libri_Test.pdf"   
 - tipologia: "Delibera"
   ufficio: "UfficioPublico"
   oggetto: "Conclusione progetti 2024-2025"
