@@ -6,6 +6,8 @@
   allegati:
     - nome: "Esercizio Biblioteconomia"
       link: "/cdn/esercizi/biblioteconomia2025/Libri_Test.pdf"   
+    - nome: "Esercizio Biblioteconomia (aggiornato)"
+      link: "/cdn/esercizi/biblioteconomia2025/esercizio.pdf"   
 - tipologia: "Delibera"
   ufficio: "UfficioPublico"
   oggetto: "Conclusione progetti 2024-2025"
