@@ -1,3 +1,17 @@
+- tipologia: "Dichiarazioni"
+  ufficio: "Team Bibliotecando"
+  oggetto: "Nuovo progetto bibliotecando"
+  pubblicazione: "18/03/2025"
+  numero: 10
+  allegati:
+    - nome: "Accedi al documento"
+      link: "/AvvioProgettoBibliotecando.pdf"   
+    - nome: "bibliotecando.it"
+      link: "https://bibliotecando.it"   
+    - nome: "bcnadmin.it"
+      link: "https://bcnadmin.it"   
+    - nome: "dashboard.bibliotecando.it"
+      link: "https://dashboard.bibliotecando.it"   
 - tipologia: "Esercizio"
   ufficio: "Gabriel Jones"
   oggetto: "Esercizio Biblioteconomia 2025 per l'utenza"
