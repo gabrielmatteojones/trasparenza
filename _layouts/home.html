@@ -54,7 +54,7 @@ layout: default
         <div class="col-md-8 overflow-hidden">
             {% for allegato in atto.allegati %}
                 <div>
-                    <a target="_blank" href="{{ allegato.link }}">{{ allegato.nome }}</a>
+                    <a target="_blank" href="/trasparenza/{{ allegato.link }}">{{ allegato.nome }}</a>
                 </div>
             {% endfor %}
         </div>
