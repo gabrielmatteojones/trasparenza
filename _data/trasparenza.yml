@@ -61,7 +61,7 @@
   numero: 4
   allegati:
     - nome: "Bando"
-      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/bandi/3/BandoSocioPariOpportunità.pdf"
+      link: "/cdn/documenti/2025/bandi/3/BandoSocioPariOpportunità.pdf"
 - tipologia: "Bando"
   ufficio: "UfficioSoci"
   oggetto: "Apertura candidature per il nuovo progetto giovanile"
@@ -69,7 +69,7 @@
   numero: 3
   allegati:
     - nome: "Bando"
-      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/bandi/Bandi Aperti.pdf"
+      link: "/cdn/documenti/2025/bandi/Bandi Aperti.pdf"
 - tipologia: "Delibera"
   ufficio: "UfficioPublico"
   oggetto: "Delibera per la formazione del nuovo sito web ufficiale di Arena Giovani"
@@ -77,7 +77,7 @@
   numero: 2
   allegati:
     - nome: "delibera"
-      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/delibera/1/index.html"
+      link: "/cdn/documenti/2025/delibera/1/index.html"
 
 - tipologia: "Dichiarazione"
   ufficio: "UfficioPublico"
@@ -86,6 +86,6 @@
   numero: 1
   allegati:
     - nome: "Risorsa 1"
-      link: "https://matteoeneabianchi.github.io/trasparenza/cdn/documenti/2025/dichiarazioni/1/index.html"
+      link: "/cdn/documenti/2025/dichiarazioni/1/index.html"
     - nome: "Risorsa 2"
       link: "https://arenagiovani.it/"
